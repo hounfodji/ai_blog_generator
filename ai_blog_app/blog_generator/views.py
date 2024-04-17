@@ -16,8 +16,6 @@ from dotenv import load_dotenv
 load_dotenv()
 from .models import BlogPost
 
-# client = OpenAI(api_key="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")
-# Create your views here.
 
 @login_required
 def index(request):

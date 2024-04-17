@@ -16,6 +16,8 @@ from dotenv import load_dotenv
 load_dotenv()
 from .models import BlogPost
 
+
+
 @login_required
 def index(request):
     return render(request, "index.html")

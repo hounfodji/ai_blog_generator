@@ -2,6 +2,10 @@
 
 This project is an innovative web application that automatically generates blog articles from YouTube videos. It uses artificial intelligence to transcribe the audio content of videos and create structured, well-written blog posts.
 
+## Demo
+![Youtube Blog generator interface](https://github.com/hounfodji/Super-Voice-Assistant/blob/master/z_demo/demo.png)
+*Caption: Youtube Blog generator interface.*
+
 ## Features
 
 - Blog article generation from YouTube links
